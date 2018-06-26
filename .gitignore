@@ -1,0 +1,25 @@
+*.class
+#package file
+*.war
+*.ear
+
+
+target/
+
+.idea/
+
+/idea/
+*.ipr
+*.iml
+*.iws
+
+
+*.log
+*.cache
+*.diff
+*.patch
+*.temp
+
+
+.DS_Store
+Thumbs.db
